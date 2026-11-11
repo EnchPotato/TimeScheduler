@@ -1,10 +1,10 @@
 {
   "version": "1.3.0-beta1",
   "config_version": 7,
-  "sha256": "82e4f686cedc751420a5fc664af2b2ee2d9030e5905b82fa3bdf021c827c4968",
-  "download_url": [
-    "https://tools.canpan.ccwu.cc/time-scheduler/updates/beta/v1.3.0-beta1/TimeScheduler.exe",
-    "https://github.com/EnchPotato/TimeScheduler/releases/download/v1.3.0-beta1/TimeScheduler.exe"
-  ],
+  "sha256": "d858f4d6b77f62511d2df73e5e991bceb7b2bfc3715f97e6dcb623d71ec93897",
+  "download_url": {
+    "canpan": "https://tools.canpan.ccwu.cc/time-scheduler/updates/beta/v1.3.0-beta1/TimeScheduler.exe",
+    "github": "https://github.com/EnchPotato/TimeScheduler/releases/download/v1.3.0-beta1/TimeScheduler.exe"
+  },
   "notes": "首个测试版：\n定时任务调度、托盘常驻、调用记录、主题设置、软件更新与回滚。"
 }

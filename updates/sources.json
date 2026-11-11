@@ -1,0 +1,14 @@
+[
+  {
+    "id": "canpan",
+    "name": "Canpan 官方",
+    "url": "https://tools.canpan.ccwu.cc/time-scheduler/updates",
+    "desc": "自建域名直连，通常无需代理"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "url": "https://raw.githubusercontent.com/EnchPotato/TimeScheduler/main/updates",
+    "desc": "GitHub 源站，部分地区可能受限"
+  }
+]

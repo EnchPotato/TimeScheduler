@@ -1,10 +1,10 @@
 {
   "version": "1.3.0-beta2",
   "config_version": 7,
-  "sha256": "8d5c1338b0673ab8f1ce06ccfa05d42a2a47bbe952b5997aa789ce07d2f0971c",
-  "download_url": [
-    "https://tools.canpan.ccwu.cc/time-scheduler/updates/beta/v1.3.0-beta2/TimeScheduler.exe",
-    "https://github.com/EnchPotato/TimeScheduler/releases/download/v1.3.0-beta2/TimeScheduler.exe"
-  ],
+  "sha256": "780b46a5603dddf6bd2fc8fefb13b97a9a93013f48000f1d870312f204455984",
+  "download_url": {
+    "canpan": "https://tools.canpan.ccwu.cc/time-scheduler/updates/beta/v1.3.0-beta2/TimeScheduler.exe",
+    "github": "https://github.com/EnchPotato/TimeScheduler/releases/download/v1.3.0-beta2/TimeScheduler.exe"
+  },
   "notes": "第二个测试版：\n未引入新功能。"
 }
